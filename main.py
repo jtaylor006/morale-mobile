@@ -32,5 +32,4 @@ class MainApp(App):
         return RootWidget()
 
 
-if __name__ == "__main__":
-    MainApp().run()
+if __name__ == "__main__": ...
