@@ -9,35 +9,15 @@
         "password": "password2",
         "created": "2020-07-07 00:28:07.315781"
     },
-    "user11": {
-        "username": "user11",
-        "password": "pass11",
+    "u3": {
+        "username": "u3",
+        "password": "p3",
         "created": "2021-03-01 13-05-51"
     },
-    "J6": {
-        "username": "J6",
-        "password": "P6",
+    "J4": {
+        "username": "J4",
+        "password": "P4",
         "created": "2021-03-12 19-09-37"
-    },
-    "Retry": {
-        "username": "Retry",
-        "password": "This will work",
-        "created": "2021-03-12 19-16-15"
-    },
-    "This is the one": {
-        "username": "This is the one",
-        "password": "Watch this!",
-        "created": "2021-03-12 19-16-36"
-    },
-    "WeHere": {
-        "username": "WeHere",
-        "password": "FixedEverything",
-        "created": "2021-03-12 19-21-26"
-    },
-    "Testing": {
-        "username": "Testing",
-        "password": "DownTransition",
-        "created": "2021-03-12 19-21-50"
     },
     "LetMeSee": {
         "username": "LetMeSee",
