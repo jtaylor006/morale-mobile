@@ -70,9 +70,12 @@
 <LoginScreenSuccess>:
     GridLayout:
         cols: 1
-        Button:
-            text: "Logout"
-            on_press:root.log_out()
+        RelativeLayout:
+            ImageButton:
+                on_press:root.log_out()
+                source: 'logout_hover.png' if self.hovered else "logout_nothover.png"
+                size_hint: 0.35, 0.35, 
+                pos_hint: {'center_x': 0.9, 'center_y': 0.7}
         Label:
             text: "How do you feel?"
         TextInput:
